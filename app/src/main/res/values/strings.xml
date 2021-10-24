@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WordCounter</string>
+    <string name="btn_name">Calculate</string>
+    <string name="msg_input">Please, enter your message</string>
+    <string name="option_choose">Please, choose count option</string>
+    <string name="result_display">Result: </string>
+    <string-array name="counter_options">
+        <item>Chars</item>
+        <item>Words</item>
+    </string-array>
+</resources>
